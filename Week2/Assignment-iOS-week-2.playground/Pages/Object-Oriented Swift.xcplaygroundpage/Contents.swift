@@ -82,7 +82,6 @@ zoo.weeklyHot = Tiger(withGender: Gender.undefined)
 zoo.weeklyHot = Elephant(withGender: Gender.undefined)
 zoo.weeklyHot = Horse(withGender: Gender.undefined)
 
-
 //4
 /*
  在這個單元當中，學習到兩種組成object的方式：struct和class。兩者的功能類似，都可以幫助我們自行定義想要的data type，並透過instance應用在程式當中。
